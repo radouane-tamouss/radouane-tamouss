@@ -75,6 +75,9 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=radouane-tamouss&hide_border=true&theme=radical" />
 </p>
 
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ---
 
