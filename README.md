@@ -71,9 +71,6 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-<p align="center">
-    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 
 <div align="center">
