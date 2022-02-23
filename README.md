@@ -1,7 +1,7 @@
-# Hey, I am Radouane! Great to see you here! <img src="/src/wave.gif" width="30px">
+<!-- # Hey, I am Radouane! Great to see you here! <img src="/src/wave.gif" width="30px">
 
 <img src="/src/header_.png">
-
+ -->
 
 #### I am Radouabe TAMOUSS, currently I'm a Computer Science Student and Web Developper.
 
