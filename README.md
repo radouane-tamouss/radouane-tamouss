@@ -29,6 +29,7 @@
 ---
 
 ![Radouane GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=radouane-tamouss&hide_border=true&theme=redical)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=radouane-tamouss)](https://github.com/radouane-tamouss/github-readme-activity-graph)
 
 ---
 
