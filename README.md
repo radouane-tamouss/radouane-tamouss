@@ -76,6 +76,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=radouane-tamouss&hide_border=true&theme=radical" />
+	 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radouane-tamouss&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,markdown"/>
 </p>
 
 
