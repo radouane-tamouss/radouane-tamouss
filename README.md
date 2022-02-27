@@ -87,7 +87,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=radouane-tamouss&&style=flat-square" align="center" />
-	[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+	[![Years Badge] <img src="https://badges.pufler.dev/years/radouane-tamouss&&style=flat-square" align="center">](https://badges.pufler.dev)
 </div>  
   
 
