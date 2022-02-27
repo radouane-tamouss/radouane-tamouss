@@ -79,6 +79,8 @@
   <img alt="most used languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radouane-tamouss&count_private=true&show_icons=true&hide_border=true&theme=radical&langs_count=20&hide=hack,swift,kotlin,objective-c,markdow&layout=compact"/>
 </p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=ExceptedPrism3&theme=juicyfresh&no-bg=true"/>
+
 
 
 ---
