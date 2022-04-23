@@ -3,7 +3,7 @@
 <img src="/src/header_.png">
  -->
 
-#### I am Radouabe TAMOUSS, currently I'm a Computer Science Student and Web Developper.
+### I am Radouane TAMOUSS, currently I'm a Computer Science Student and Web Developper 🐱‍💻.
 
 
 ###### Find out more about me & feel free to connect with me here:
