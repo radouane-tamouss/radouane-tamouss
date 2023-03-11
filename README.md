@@ -28,7 +28,7 @@
 
 ---
 
-![Radouane GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=radouane-tamouss&hide_border=true&theme=redical)
+![Radouane GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=radouane-tamouss&hide_border=true&theme=redical)]
 
 ---
 
