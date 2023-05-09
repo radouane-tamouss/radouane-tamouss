@@ -77,7 +77,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=radouane-tamouss&hide_border=true&theme=radical" />
-  <img alt="most used languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radouane-tamouss&count_private=true&show_icons=true&hide_border=true&theme=radical&langs_count=20&hide=hack,swift,kotlin,objective-c,markdow&layout=compact"/>
+<!--   <img alt="most used languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radouane-tamouss&count_private=true&show_icons=true&hide_border=true&theme=radical&langs_count=20&hide=hack,swift,kotlin,objective-c,markdow&layout=compact"/> -->
 </p>
 
 
