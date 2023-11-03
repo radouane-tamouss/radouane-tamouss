@@ -26,12 +26,6 @@
 	</a>
 </p>
 
----
-
-[![rtamouss's 42 stats](https://badge.mediaplus.ma/colorfulwaves/aabidar)](https://github.com/oakoudad/badge42)
-
----
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
