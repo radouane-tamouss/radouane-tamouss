@@ -28,7 +28,7 @@
 
 ---
 
-[![rtamouss's 42 stats](https://badge.mediaplus.ma/colorfulwaves/rtamouss)](https://github.com/oakoudad/badge42)
+[![rtamouss's 42 stats](https://badge.mediaplus.ma/colorfulwaves/aabidar)](https://github.com/oakoudad/badge42)
 
 ---
 
