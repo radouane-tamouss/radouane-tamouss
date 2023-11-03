@@ -28,7 +28,7 @@
 
 ---
 
-[![Radouane's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=radouane-tamouss&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![rtamouss's 42 stats](https://badge.mediaplus.ma/colorfulwaves/rtamouss)](https://github.com/oakoudad/badge42)
 
 ---
 
