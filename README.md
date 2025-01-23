@@ -3,23 +3,6 @@
 <img src="/src/header_.png">
  -->
 
-### <div align="center">Hi 👋, I'm Radouane 🙋‍♂️ currently I'm a Computer Science Student and Web Developper 🐱‍💻.</div>
-
-
-#### <div align="center">Find out more about me & feel free to connect with me here:</div>
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/radouane-tamouss-778139206/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/RedOuan06613042">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-  <a href="mailto:atamousse.red@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
