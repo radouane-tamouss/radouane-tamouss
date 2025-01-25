@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Currently studying at <strong>1337 Coding School</strong><br>
-  💻 Working on Full Stack Development & System Programming<br>
+  <!--💻 Working on Full Stack Development & System Programming<br> !-->
   🌱 Learning Software Architecture & Advanced Algorithms<br>
   👨‍💻 Exploring new technologies
 </p>
@@ -10,7 +10,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,js,mysql,git,wordpress,laravel,tailwind,figma" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,js,mysql,git,wordpress,laravel,html,css,tailwind,lua,figma,photoshop" alt="Skills" />
 </p>
 
 ### 📊 GitHub Stats
