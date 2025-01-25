@@ -1,59 +1,79 @@
-<!-- # Hey, I am Radouane! Great to see you here! <img src="/src/wave.gif" width="30px">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Radouane+Tamouss!" alt="Typing SVG" />
+</div>
 
-<img src="/src/header_.png">
- -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="600" style="border-radius: 10px; margin: 20px 0;" />
+</div>
 
-## ⚡ Tech Stack
-
-### 🚀 Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 💻 Libraries & Framework
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-### 🔍 Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🧑🏻‍💻 Tools & Platform
-
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VIM](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=vim%20studio&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![](https://hit.yhype.me/github/profile?user_id=78624319)
-
-## 📈 Stats
+<h3 align="center">A passionate student</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=radouane-tamouss&hide_border=true&theme=radical" />
-  <img alt="most used languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radouane-tamouss&count_private=true&show_icons=true&hide_border=true&theme=radical&langs_count=20&hide=hack,swift,kotlin,objective-c,markdow&layout=compact"/>
+  🎓 Currently studying at <strong>1337 School</strong><br>
+  💻 Working on Full Stack Development & System Programming<br>
+  🌱 Learning Software Architecture & Advanced Algorithms<br>
+  👨‍💻 Building efficient solutions and exploring new technologies
 </p>
 
+### 🛠️ Languages and Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,js,mysql,git,wordpress,laravel,tailwind,figma" alt="Skills" />
+</p>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radouane-tamouss&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radouane-tamouss&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radouane-tamouss&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/radouane-tamouss" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tamouss.radouane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://radouane-tamouss.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://profile.intra.42.fr/users/rtamouss" target="_blank">
+    <img src="https://img.shields.io/badge/42%20Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Network" />
+  </a>
+</p>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=radouane-tamouss&theme=tokyo-night" alt="GitHub Activity Graph" />
+</div>
+
+### 🎨 GitHub Skyline
+
+<div align="center">
+  <a href="https://skyline.github.com/radouane-tamouss/2023">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
+  </a>
+</div>
+
+### 📅 GitHub Calendar
+
+<div align="center">
+  <img src="https://github.com/radouane-tamouss/radouane-tamouss/blob/main/github-metrics.svg" alt="GitHub Calendar" />
+</div>
 
 ---
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=radouane-tamouss&&style=flat-square" align="center" />
-
-</div>  
-  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=radouane-tamouss&color=blueviolet" alt="Profile views" />
+</p>
