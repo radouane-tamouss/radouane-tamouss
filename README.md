@@ -52,26 +52,6 @@
   </a>
 </p>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=radouane-tamouss&theme=tokyo-night" alt="GitHub Activity Graph" />
-</div>
-
-### 🎨 GitHub Skyline
-
-<div align="center">
-  <a href="https://skyline.github.com/radouane-tamouss/2023">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
-  </a>
-</div>
-
-### 📅 GitHub Calendar
-
-<div align="center">
-  <img src="https://github.com/radouane-tamouss/radouane-tamouss/blob/main/github-metrics.svg" alt="GitHub Calendar" />
-</div>
-
 ---
 
 <p align="center">
