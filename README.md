@@ -1,18 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Radouane+Tamouss!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="600" style="border-radius: 10px; margin: 20px 0;" />
-</div>
-
-<h3 align="center">A passionate student</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 <p align="center">
-  🎓 Currently studying at <strong>1337 School</strong><br>
+  🎓 Currently studying at <strong>1337 Coding School</strong><br>
   💻 Working on Full Stack Development & System Programming<br>
   🌱 Learning Software Architecture & Advanced Algorithms<br>
-  👨‍💻 Building efficient solutions and exploring new technologies
+  👨‍💻 Exploring new technologies
 </p>
 
 ### 🛠️ Languages and Tools
