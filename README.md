@@ -19,14 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radouane-tamouss&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=radouane-tamouss&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radouane-tamouss&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
 ### 🤝 Connect with me
 
 <p align="center">
