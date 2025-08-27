@@ -7,7 +7,7 @@
   👨‍💻 Exploring new technologies
 </p>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=rtamouss)](https://www.1337.ma/en)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ansoulai)](https://www.1337.ma/en)]
 
 ### 🛠️ Languages and Tools
 
