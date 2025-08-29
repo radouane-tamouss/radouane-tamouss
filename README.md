@@ -6,9 +6,7 @@
   🌱 Learning Software Architecture & Advanced Algorithms<br>
   👨‍💻 Exploring new technologies
 </p>
- <a href="https://monkeytype.com/profile/radouane_tamouss">
-   <img src="https://raw.githubusercontent.com/radouane-tamouss/radouane-tamouss/monkeytype-readme/SVG_NAME" alt="My Monkeytype profile" />
- </a>
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
