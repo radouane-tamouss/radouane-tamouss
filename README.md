@@ -13,12 +13,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,php,js,mysql,git,wordpress,laravel,html,css,tailwind,lua,figma,photoshop" alt="Skills" />
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&theme=tokyonight" alt="Radouane Tamouss GitHub Stats" />
-</div>
-
 ### 🤝 Connect with me
 
 <p align="center">
