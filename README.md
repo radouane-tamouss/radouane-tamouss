@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radouane-tamouss&show_icons=true&theme=tokyonight" alt="Radouane Tamouss GitHub Stats" />
 </div>
 
 ### 🤝 Connect with me
