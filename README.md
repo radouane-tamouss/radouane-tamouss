@@ -14,8 +14,9 @@
 </p>
 
 <div align="center">
-  <img src="https://YOUR_VERCEL_APP.vercel.app/api?username=radouane-tamouss&show_icons=true&theme=tokyonight" alt="Radouane Tamouss GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=radouane-tamouss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Radouane Tamouss GitHub Trophy" />
 </div>
+
 
 ### 🤝 Connect with me
 
